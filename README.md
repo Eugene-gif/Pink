@@ -1,4 +1,4 @@
-# [Pink]() - сайт приложения Pink.
+# [Pink](https://eugene-gif.github.io/Pink/) - сайт приложения Pink.
 
 
 <h3>Описание:</h3>

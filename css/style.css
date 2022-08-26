@@ -637,13 +637,13 @@ ul {
 }
 
 .slider__control[data-slide=prev]::before {
-  background-image: url("/img/arrow-l.webp");
+  background-image: url("../img/arrow-l.webp");
   background-size: contain;
   height: 100%;
 }
 
 .slider__control[data-slide=next]::before {
-  background-image: url("/img/arrow-r.webp");
+  background-image: url("../img/arrow-r.webp");
   background-size: contain;
   height: 100%;
 }
@@ -1204,7 +1204,7 @@ ul {
   width: 100%;
   font-size: 18px;
   color: #283645;
-  background-image: url(/img/phone-input.webp);
+  background-image: url(../img/phone-input.webp);
   background-position: center right;
   background-repeat: no-repeat;
 }
@@ -1212,7 +1212,7 @@ ul {
   outline: 2px solid #03a9f4;
 }
 .contest__form-contact-label:nth-of-type(2) .contest__form-contact-input {
-  background-image: url(/img/mail-input.webp);
+  background-image: url(../img/mail-input.webp);
   background-position: center right;
   background-repeat: no-repeat;
 }
@@ -1250,7 +1250,7 @@ ul {
   margin-left: -45px;
 }
 .contest__form-achivements-checkbox:checked + .contest__form-achivements-span::before {
-  content: url(/img/tick.webp);
+  content: url(../img/tick.webp);
   position: absolute;
   top: 50%;
   left: 50%;
